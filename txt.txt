@@ -1,0 +1,10 @@
+for (initialization ; condition ; inc/dec){
+
+}
+
+----------------------------------------------------
+let a=1;
+while(condition){
+inc/dec
+console.log
+}
